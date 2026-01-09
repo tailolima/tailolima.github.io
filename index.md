@@ -22,7 +22,7 @@ Estou buscando oportunidades como estagiário ou júnior em desenvolvimento de s
 
 ## 📬 Como me encontrar
 
-📧 [tailo.lima@email.com](mailto:tailo.lima@email.com)  
+📧 [tailolima@gmail.com](mailto:tailolima@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/george-tailo-lima-a996862a2/)  
 💻 [GitHub](https://github.com/tailolima)
 
