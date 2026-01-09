@@ -15,8 +15,8 @@ Estou buscando oportunidades como estagiário ou júnior em desenvolvimento de s
 ## 🚀 Projetos Recentes
 
 - ✅ [Meu Primeiro Projeto Java](https://github.com/tailolima/MeuPrimeiroJava) — Primeiro projeto Java versionado com Git  
-- ✅ Certificação AWS Cloud Practitioner (em andamento)  
 - ✅ [Projeto AWS](https://github.com/tailolima/meu-site-aws) — Meu primeiro site hospedado na AWS
+- ✅ Certificação AWS Cloud Practitioner (em andamento)  
 
 ---
 
