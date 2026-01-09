@@ -15,8 +15,8 @@ Estou buscando oportunidades como estagiário ou júnior em desenvolvimento de s
 ## 🚀 Projetos Recentes
 
 - ✅ [Simulador de Custos da AWS](https://tailolima.github.io/aws-cost-simulator) — Ferramenta para estudantes estimarem custos reais da nuvem
-- ✅ [Meu Primeiro Projeto Java](https://github.com/tailolima/MeuPrimeiroJava) — Primeiro projeto Java versionado com Git  
 - ✅ [Projeto AWS](http://meu-projeto-aws-georgetailo01.s3-website-sa-east-1.amazonaws.com/) — Meu primeiro site hospedado na AWS
+- ✅ [Meu Primeiro Projeto Java](https://github.com/tailolima/MeuPrimeiroJava) — Primeiro projeto Java versionado com Git  
 - ✅ Certificação AWS Cloud Practitioner (em andamento)  
 
 ---
