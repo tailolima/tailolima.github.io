@@ -5,8 +5,8 @@ title: Home
 
 # Olá, eu sou George Tailo 👋
 
-Estudante de Engenharia de Software, em transição para a área de tecnologia.  
-Atualmente estou me especializando em **Java**, **AWS** e **desenvolvimento web**.
+Estudante de Engenharia de Software, em transição para a área de tecnologia.
+Atualmente estou me especializando em **Java**, **Python**, **AWS** e **desenvolvimento web**.
 
 Estou buscando oportunidades como estagiário ou júnior em desenvolvimento de software.
 
