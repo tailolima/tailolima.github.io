@@ -10,11 +10,10 @@ Atualmente estou me especializando em **Java**, **Python**, **AWS** e **desenvol
 
 Estou buscando oportunidades como estagiário ou júnior em desenvolvimento de software.
 
----
 
 ## 🚀 Projetos Recentes
 
-- ✅ [Gerenciador de Gastos Python](https://github.com/tailolima/gerenciador-gastos) — App de controle financeiro com banco de dados em arquivo (CLI).
+- ✅ [Sistema Financeiro Enterprise (Python)](https://github.com/tailolima/gerenciador-gastos) —  Aplicação CLI reestruturada com Arquitetura MVC, persistência em SQLite e visualização de dados (Dashboards) com Matplotlib.
 - ✅ [Simulador de Custos da AWS](https://tailolima.github.io/aws-cost-simulator) — Ferramenta interativa para estimar custos reais da nuvem (região sa-east-1)
 - ✅ [Site Hospedado na AWS](https://github.com/tailolima/meu-site-aws) — Meu primeiro site estático com HTML/CSS, estudado para deploy na AWS
 - ✅ [Aplicação Java Inicial](https://github.com/tailolima/MeuPrimeiroJava) — Primeiro projeto em Java com versionamento no GitHub
